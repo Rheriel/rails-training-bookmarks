@@ -6,6 +6,9 @@ gem 'devise'
 # ZURB Foundation to make things prettier.
 gem 'zurb-foundation'
 
+# Prettier forms.
+gem 'simple_form'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
 # Use mysql as the database for Active Record
